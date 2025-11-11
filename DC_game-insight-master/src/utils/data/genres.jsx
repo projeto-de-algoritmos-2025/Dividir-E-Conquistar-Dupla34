@@ -1,0 +1,2 @@
+const genres = ['Ficção Científica', 'História', 'Curta', 'Drama', 'Esporte', 'Biografia', 'Comédia', 'Game-Show', 'Crime', 'Musical', 'Música', 'Guerra', 'Documentário', 'Suspense', 'Talk-Show', 'Faroeste', 'Mistério', 'Ação', 'Animação', 'Fantasia', 'Romance', 'Terror', 'Reality-TV', 'Aventura', 'Família']
+export default genres
